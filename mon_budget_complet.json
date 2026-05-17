@@ -1,0 +1,15 @@
+{
+    "historique": {
+        "Mois par défaut": {
+            "revenus": [],
+            "epargnes": [],
+            "dettes": [],
+            "depenses_fixes": [],
+            "depenses_variables": [],
+            "sante": [],
+            "comptes": [],
+            "journal_transactions": []
+        }
+    },
+    "mois_actif": "Mois par défaut"
+}
